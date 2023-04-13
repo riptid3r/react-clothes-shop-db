@@ -1,0 +1,14 @@
+{
+	"name": "react-clothes-shop-db",
+	"version": "1.0.0",
+	"author": "riptid3r",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.3"
+	}
+}
